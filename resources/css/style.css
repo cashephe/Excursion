@@ -1,3 +1,6 @@
+footer{
+  text-align: right;
+}
 html{
   background-color: black;
   text-align: center
@@ -27,7 +30,4 @@ h3{
   font-family: Verdana;
   font-size: 21px;
   color: gray;
-}
-footer{
-  text-align: right;
 }
