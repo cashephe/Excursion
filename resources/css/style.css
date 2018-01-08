@@ -26,5 +26,8 @@ h2{
 h3{
   font-family: Verdana;
   font-size: 21px;
-  color: Gray;
+  color: gray;
+}
+footer{
+  text-align: right;
 }
